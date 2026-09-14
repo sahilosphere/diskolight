@@ -23,4 +23,4 @@ I am always looking for ways to improve this application. If you have coding ski
 ## 📬 Contact
 
 Created by **Sahil Singh Rajput**
-If you have any feedback, questions, or ideas, feel free to reach out at: **sahilosphere@gmail.com**        kya ye sahi rahega redme.md mein likhne mein ya kucch improvement karoge
+If you have any feedback, questions, or ideas, feel free to reach out at: **sahilosphere@gmail.com**   
